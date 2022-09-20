@@ -5,7 +5,7 @@ Please note that I claim ownership of all items in this project, except for the 
 Please have fun playing this game, but please refrain from sharing it other than via this github repo.
 
 
-Also, note that this project does not reflect my present programming style or abilities, as this was from when I first learned how to program, and I have since been a software engineer professionally and also studied the subject formally at university.
+Also, ***note that this project does not reflect my present programming style or abilities***, as this was from when I first learned how to program, and I have since been a software engineer professionally and have also studied the subject formally at university.
 
 # Introduction
 
